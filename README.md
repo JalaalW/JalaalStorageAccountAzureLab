@@ -23,7 +23,7 @@ It showcases my ability to **configure, monitor, and enforce Azure Policy**, app
 - **Azure Policy**
 - **Azure Resource Manager (ARM)**
 - **Azure Role-Based Access Control (RBAC)**
-- **NIST CSF v2.0** & **NIST SP 800-53 Rev.5** compliance frameworks
+- **NIST CSF v2.0** & **NIST SP 800-53 Rev.5** compliance frameworks 2
 
 ---
 
